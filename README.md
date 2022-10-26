@@ -1,6 +1,8 @@
 # Arvores
 ---
 
+Nathália Regina Viera Teixeira - nathalia.teixeira@fatec.edu.gov.br
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá ter compreendido o seguinte conceito:
