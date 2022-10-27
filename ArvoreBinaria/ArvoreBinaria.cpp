@@ -148,12 +148,13 @@ int elementosArvore(NO* no)
 }
 
 void exibirElementosArvore(NO* no)
-{
-	if (no == NULL){
-	    cout << no->esq << endl;
+{ 
+	if (no->dir == NULL){
+	    cout << no->valor << endl;
 	}
 	else{
     	exibirElementosArvore(no->esq);
-	    exibirElementosArvore(no->dir);
+    	
+	exibirElementosArvore(no->dir);
 	}
 }
